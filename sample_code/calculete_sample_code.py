@@ -49,6 +49,7 @@ def loop():
 calculate()
 
 
+
 # new coment to check.
 
 #   new changes
@@ -56,3 +57,4 @@ calculate()
 # Neger changes
 
 
+# new changes from fardad
