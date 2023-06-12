@@ -48,6 +48,11 @@ def loop():
 
 calculate()
 
+<<<<<<< HEAD
 # new coment to check.
 
 #   new changes
+=======
+# Neger changes
+
+>>>>>>> 1f4e50e6a3ce9d51e8021ff1d96ad8f479414696
