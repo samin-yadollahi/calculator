@@ -2,14 +2,14 @@ def prompt_menu():
     a = float(input("Enter the first number: "))
     b = float(input("Enter the second number: "))
     print("""
-Choose an operation from the list:
-1. Addition
-2. Subtraction
-3. Multiplication
-4. Exponentiation
-5. Division
-6. Division with remainder
-    """)
+        Choose an operation from the list:
+        1. Addition
+        2. Subtraction
+        3. Multiplication
+        4. Exponentiation
+        5. Division
+        6. Division with remainder
+        """)
     op = int(input("Enter the choice number: "))
     return a, b, op
 def calculate():
@@ -35,6 +35,7 @@ def calculate():
     else:
         print("No such choice!")
     loop()
+
 def loop():
     choice = input("Do you want to continue? (Y,N): ")
     if choice.upper() == "Y":
@@ -44,7 +45,16 @@ def loop():
     else:
         print("Invalid input!")
         loop()
+
 calculate()
+
+
+
+# new coment to check.
+
+#   new changes
 
 # Neger changes
 
+
+# new changes from fardad
