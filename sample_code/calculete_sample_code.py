@@ -45,3 +45,4 @@ def loop():
         print("Invalid input!")
         loop()
 calculate()
+# Neger changes
